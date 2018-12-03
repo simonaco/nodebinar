@@ -1,4 +1,4 @@
-# nodebinar
+# nodebinar  [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.nodebinar)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=10)
 
 ## Prerequisites
 
