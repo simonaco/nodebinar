@@ -1,0 +1,13 @@
+config:
+  target: http://nodewebinar.azurewebsites.net
+  phases:
+    -
+      duration: 2
+      arrivalRate: 2000
+scenarios:
+  -
+    name: "Get list"
+    flow:
+      -
+        get:
+          url: "/api/read-recipes"

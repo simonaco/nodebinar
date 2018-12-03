@@ -1,0 +1,17 @@
+pool:
+ vmImage: 'Ubuntu 16.04'
+steps:
+ - script: |
+     npm install
+   displayName: "npm install"
+ - task: ArchiveFiles@2
+   displayName: "Archive files"
+   inputs:
+     rootFolderOrFile: "$(System.DefaultWorkingDirectory)"
+     includeRootFolder: false
+     archiveFile: "$(System.DefaultWorkingDirectory)/$(Build.BuildId).zip"
+ - task: PublishBuildArtifacts@1
+   displayName: "Publish files"
+   inputs:
+     PathtoPublish: '$(System.DefaultWorkingDirectory)'
+     name: 'drop'
