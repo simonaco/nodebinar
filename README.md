@@ -1,5 +1,7 @@
 # nodebinar  [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.nodebinar)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=10)
 
+If you want to learn more about getting started with serverless using VS Code and watch a demo of Azure API Management you can register [here](https://info.microsoft.com/ww-ondemand-build-serverless-api-with-nodejs.html) and you'll get a recorded version of the webinar.  
+
 ## Prerequisites
 
 1. A recent version of Node (8+)
