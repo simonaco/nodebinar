@@ -39,7 +39,7 @@ If you want to learn more about getting started with serverless using VS Code an
 
 ---
 
-🎉 Congrats!! You made it - built your very first GraphQL endpoint on Serverless! 🎉
+🎉 Congrats!! You made it - built your very first endpoint on Serverless! 🎉
 
 ---
 Bonus: If interested to learn more about serverless make sure to checkout the free self guided courses on [Microsoft Learn Serverless Path](https://aka.ms/learn-serverless)
