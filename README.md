@@ -6,6 +6,7 @@ If you want to learn more about getting started with serverless using VS Code an
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fnodebinar%2Fmaster%2Fazuredeploy.json)
 
+![Deploy to Azure](https://sicotinslides.blob.core.windows.net/slides/deployArm.gif)
 ## Prerequisites
 
 1. A recent version of Node (8+)
