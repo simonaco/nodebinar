@@ -9,7 +9,9 @@ const loadDB = async () => {
     return db;
   }
   const client = await MongoClient.connect(
-    process.env.url,
+    `mongodb://${process.env.user}.documents.azure.com:${
+      process.env.port
+    }/?ssl=true`,
     {
       auth: auth
     }

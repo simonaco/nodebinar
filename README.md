@@ -30,7 +30,7 @@ If you want to learn more about getting started with serverless using VS Code an
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "user": "your-db-user",
     "password": "your-db-password",
-    "url": "mongodb://your-db-user.documents.azure.com:10255/?ssl=true"
+    "port": "your-db-port"
   }
 }
 ```
