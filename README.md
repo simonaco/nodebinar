@@ -10,11 +10,11 @@ If you want to learn more about getting started with serverless using VS Code an
 
 1. A recent version of Node (8+)
 
-1. VS Code: [here](https://code.visualstudio.com/download/?WT.mc_id=github-readme-sicotin)  
+1. VS Code: [here](https://code.visualstudio.com/download/?WT.mc_id=webinar-github-sicotin)  
 
-1. Azure Functions CLI: [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=github-readme-sicotin)  
+1. Azure Functions CLI: [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=webinar-github-sicotin)  
 
-1. Azure Functions Extension for VS Code: [here](https://marketplace.visualstudio.com/items/?WT.mc_id=github-readme-sicotin&itemName=ms-azuretools.vscode-azurefunctions)  
+1. Azure Functions Extension for VS Code: [here](https://marketplace.visualstudio.com/items/?WT.mc_id=webinar-github-sicotin&itemName=ms-azuretools.vscode-azurefunctions)  
 
 1. Azure account: [https://aka.ms/free](https://aka.ms/free)
 
@@ -22,7 +22,7 @@ If you want to learn more about getting started with serverless using VS Code an
 
 1. Install all dependencies by running `npm i`
 
-1. In [VS Code](https://code.visualstudio.com/download/?WT.mc_id=github-readme-sicotin), go to the [Azure Functions](https://marketplace.visualstudio.com/items/?WT.mc_id=github-readme-sicotin&itemName=ms-azuretools.vscode-azurefunctions) extension and click on `Create New Project...` icon. This will create a local.settings.json file for us and configure local debugging.  
+1. In [VS Code](https://code.visualstudio.com/download/?WT.mc_id=webinar-github-sicotin), go to the [Azure Functions](https://marketplace.visualstudio.com/items/?WT.mc_id=webinar-github-sicotin&itemName=ms-azuretools.vscode-azurefunctions) extension and click on `Create New Project...` icon. This will create a local.settings.json file for us and configure local debugging.  
 
 1. In `local.settings.json`, setup your environment variables for connecting to your database: 
 
@@ -43,7 +43,7 @@ If you want to learn more about getting started with serverless using VS Code an
 
 ---
 
-🎉 Congrats!! You made it - built your very first endpoint on Serverless! 🎉
+<span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://immhpnclomdloikkpcefncmfgjbkojmh/emoji-data/sheet_apple_32.png);background-position:16.039952996474735% 71.97414806110459%;background-size:5418.75% 5418.75%" data-codepoints="1f389"></span></span> Congrats!! You made it - built your very first endpoint on Serverless! <span class="emoji-outer emoji-sizer"><span class="emoji-inner" style="background: url(chrome-extension://immhpnclomdloikkpcefncmfgjbkojmh/emoji-data/sheet_apple_32.png);background-position:16.039952996474735% 71.97414806110459%;background-size:5418.75% 5418.75%" data-codepoints="1f389"></span></span>
 
 ---
 Bonus: If interested to learn more about serverless make sure to checkout the free self guided courses on [Microsoft Learn Serverless Path](https://aka.ms/learn-serverless)
