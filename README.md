@@ -1,10 +1,10 @@
-# nodebinar  [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.nodebinar)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=10) 
+# nodebinar  [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.nodebinar)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=10&WT.mc_id=nodebinar-github-sicotin) 
 
-If you want to learn more about getting started with serverless using VS Code and watch a demo of Azure API Management you can register [here](https://info.microsoft.com/ww-ondemand-build-serverless-api-with-nodejs.html) and you'll get a recorded version of the webinar.  
+If you want to learn more about getting started with serverless using VS Code and watch a demo of Azure API Management you can register [here](https://info.microsoft.com/demand-build-serverless-api-with-nodejs.html?WT.mc_id=nodebinar-github-sicotin) and you'll get a recorded version of the webinar.  
 
 ## Deploy resources
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fnodebinar%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/?WT.mc_id=nodebinar-github-sicotin#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fnodebinar%2Fmaster%2Fazuredeploy.json)
 
 ## Prerequisites
 
